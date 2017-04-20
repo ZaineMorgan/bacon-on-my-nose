@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>A Greeting to The World</title>
+</head>
+
+<body>
+    <h1>A greeting to the world of code!</h1>
+    <!--H1 is the firs title of the page, Google ranks it heavily for SEO-->
+    <strong title="The Greeting"> <!--Tooltips are ways of adding hover-over info to items on the page-->
+    <h2>The Text</h2>
+            Hello, world!
+    <em>
+Emphasized Text
+</em>
+</strong>
+    <br>
+    <h3>The Image</h3>
+    <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/bacon_sizzling_facts_rmq/650x350_bacon_sizzling_facts_rmq.jpg"
+        alt="Delicious Baconzzz">
+</body>
+
+</html>

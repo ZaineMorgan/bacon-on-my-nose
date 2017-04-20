@@ -1,0 +1,43 @@
+
+p.red {
+    color: red;
+}
+
+
+p.blue {
+    color: blue;
+}
+
+p.green {
+    color: green;
+}
+
+p a {
+    color: white;
+}
+
+p.blue a {
+    color:yellow;
+}
+
+ul li.seen {
+    color: black
+}
+
+ul li.unseen {
+    color: silver
+}
+
+ul li.seen.good {
+    color: green
+}
+
+
+h1,h2 {
+    text-decoration: underline;
+}
+h1:hover,
+h2:hover {
+    text-decoration: none;
+}
+
